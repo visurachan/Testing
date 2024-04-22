@@ -13,6 +13,7 @@ public class Main{
         else {
             System.out.println("x is not 5");
         }
-        System.out.println("This prints no matter what");
+        System.out.print("This prints no matter what");
+        System.out.println("Just checking");
     }
 }
